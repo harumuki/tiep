@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PackData basePack="https://raw.githubusercontent.com/harumuki/tiep/main/tiep.xml" name="Tiep Legendary" desc="My Legendary pack data football.">
+
+<PlayerData baseImageUrl="https://raw.githubusercontent.com/harumuki/tiep/main/cauthu/">
+<P id="314" f="Tiep" s="Pham" i="1.jpg" />
+</PlayerData>
+
+<ClubData baseImageUrl="https://raw.githubusercontent.com/harumuki/tiep/main/doibong/">
+<C id="219" n="Tiep" i="1.jpg" />
+</ClubData>
+
+</PackData>
